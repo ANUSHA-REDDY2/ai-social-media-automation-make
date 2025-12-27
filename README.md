@@ -39,5 +39,12 @@ An AI-driven automation workflow that:
 - Routing and conditional logic
 - Real-world AI use cases
 
+## Live Automation Scenario (Make.com)
+
+This project includes a live public Make.com scenario demonstrating the complete automation workflow.
+
+🔗 Public Scenario Link:  
+https://eu1.make.com/public/shared-scenario/RoKcWsggPEE/integration-google-sheets
+
 
 
